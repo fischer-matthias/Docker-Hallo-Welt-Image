@@ -1,0 +1,22 @@
+{
+  "name": "docker-hallo-welt-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fischer-matthias/Docker-Hallo-Welt-Image.git"
+  },
+  "author": "Matthias Fischer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fischer-matthias/Docker-Hallo-Welt-Image/issues"
+  },
+  "homepage": "https://github.com/fischer-matthias/Docker-Hallo-Welt-Image#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
